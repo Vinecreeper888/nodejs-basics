@@ -1,0 +1,16 @@
+*******************************
+DOCUMENTATION WILL BE DONE HERE
+*******************************
+
+-> Ryan Dahl as a JS runtime based on chrome V8 engine
+-> npm created node 1.0 which allowed for hte sharing of open sources
+JS libraries
+-> 2015 - Node.js foundation was formed (IBM, Microsoft,Paypal)
+-> these companies can shepherd the growth and teh evolution of the library
+for years to come
+-> wide use across various industries
+
+-> Console object is part of the global namesapce
+-> global object is a bit like the window object. Not the same, but has
+similar characteristics
+Eg: 
